@@ -1,5 +1,17 @@
 ## Hi, I'm Andreas 👋
 
+I am a professional software engineer with over 25 years of experience. Even after more than two decades in the industry, I’ve never lost my passion for coding. In fact, with the rise of AI tools, I’m enjoying development more than ever—finding new ways to build faster and reach the "flow state" more efficiently.
+
+### What drives me
+I love creating visual solutions. Whether it's a complex desktop framework or a pixel-perfect web tool, I thrive on seeing ideas come to life. A big part of my creative outlet in recent years has been CSSBattle, which inspired many of the web tools you see below.
+
+### When I’m not coding
+I’m a family man and dog owner based in Austria. When the screen is off, you’ll likely find me:
+
+* 🛴 EUC Trekking: Cruising on my Electric Unicycle during the summer months.
+* ♟️ Strategic Thinking: Playing chess (mostly for the challenge, not the rating!) or enjoying a round of poker with friends.
+* 🏗️ Gaming: Losing myself in deep, complex systems like Factorio, Space Engineers, or Civilization.
+
 ### 🔭 Current Projekt
 * **SnapFX** - JavaFX Docking Framework - Private development; slated for public release once it meets my quality standards.
 
