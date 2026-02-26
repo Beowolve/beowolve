@@ -4,16 +4,16 @@
 * **SnapFX** - JavaFX Docking Framework - Private development; slated for public release once it meets my quality standards.
 
 ### 🌐 Websites
-* [sevenauthors.art](https://sevenauthors.art) - experimental website that publishes AI generated stories
-* [stilzone.at](https://stilzone.at) - my wife's business webpage
-* [stahl-linz.at](https://stahl-linz.at) - local soccer club webpage
-* [cssutils.com](https://cssutils.com) - hosts a collection of web tools, mostly related to CSSBattle
+* [sevenauthors.art](https://sevenauthors.art) - An experimental platform publishing AI-generated storytelling.
+* [stilzone.at](https://stilzone.at) - Corporate website for my wife's business.
+* [stahl-linz.at](https://stahl-linz.at) - Official webpage of a local soccer club.
+* [cssutils.com](https://cssutils.com) - A curated collection of web tools, specialized for CSSBattle.
 
 ### ⚡ Web Tools
-* [CSS Battle Previewer 2.0](https://tc70f3.csb.app/) - A tool to create Unicode CSSBattle solutions (forked and improved)
-* [CSS Battle Targets Overview](https://5xw7rn.csb.app/) - Lists all CSSBattle targets in a nice grid.
-* [Color Mixer](https://cssutils.com/colormixer/) - Converts solid #RRGGBB colors to matching #RGBA values.
-* [Unit Golf](https://u9kels.csb.app/) - Helps you find shorter CSS unit equivalents to reduce code size.
+* [CSS Battle Previewer 2.0](https://tc70f3.csb.app/) - A forked and enhanced tool for crafting Unicode-based CSSBattle solutions.
+* [CSS Battle Targets Overview](https://5xw7rn.csb.app/) - A streamlined grid view of all CSSBattle targets for better accessibility.
+* [Color Mixer](https://cssutils.com/colormixer/) - A precision tool to convert solid #RRGGBB colors into equivalent #RGBA values.
+* [Unit Golf](https://u9kels.csb.app/) - An optimizer for finding the shortest CSS unit equivalents to minimize code size.
 
 ### 📫 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/eDCk5HQKWn) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2543799) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/BeoOnTwitch) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Beowolve) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beowolve@gmail.com) 
