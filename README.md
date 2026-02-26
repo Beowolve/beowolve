@@ -1,16 +1,16 @@
 ## Hi, I'm Andreas 👋
 
 ### 🔭 Current Projekt
-* **SnapFX** - JavaFX Docking Framework - Currently a private project, will be made public if I am satisified
+* **SnapFX** - JavaFX Docking Framework - Private development; slated for public release once it meets my quality standards.
 
 ### 🌐 Websites
-* [sevenauthors.art](sevenauthors.art) - experimental website that publishes AI generated stories
-* [stilzone.at]([stilzone.at) - my wifes buiseness webpage
-* [stahl-linz.at](stahl-linz.at) - local soccer club webpage
-* [cssutils.com](cssutils.com) - hosts a collection of webtools, mostly related to CSSBattle
+* [sevenauthors.art](https://sevenauthors.art) - experimental website that publishes AI generated stories
+* [stilzone.at](https://stilzone.at) - my wife's business webpage
+* [stahl-linz.at](https://stahl-linz.at) - local soccer club webpage
+* [cssutils.com](https://cssutils.com) - hosts a collection of web tools, mostly related to CSSBattle
 
-### ⚡ Web-Tools
-* [CSS Battle Previewer 2.0](https://tc70f3.csb.app/) - A tool to create unicode CSSBattle solutons (forked and improved)
+### ⚡ Web Tools
+* [CSS Battle Previewer 2.0](https://tc70f3.csb.app/) - A tool to create Unicode CSSBattle solutions (forked and improved)
 * [CSS Battle Targets Overview](https://5xw7rn.csb.app/) - Lists all CSSBattle targets in a nice grid.
 * [Color Mixer](https://cssutils.com/colormixer/) - Converts solid #RRGGBB colors to matching #RGBA values.
 * [Unit Golf](https://u9kels.csb.app/) - Helps you find shorter CSS unit equivalents to reduce code size.
