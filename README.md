@@ -8,7 +8,7 @@ I love creating visual solutions. Whether it's a complex desktop framework or a 
 ### When I’m not coding
 I’m a family man and dog owner based in Austria. When the screen is off, you’ll likely find me:
 
-* 🛴 EUC Trekking: Cruising on my Electric Unicycle during the summer months.
+* 🛴 EUC Trekking: Cruising on my Electric Unicycle (KS S16 Pro) during the summer months.
 * ♟️ Strategic Thinking: Playing chess (mostly for the challenge, not the rating!) or enjoying a round of poker with friends.
 * 🏗️ Gaming: Losing myself in deep, complex systems like Factorio, Space Engineers, or Civilization.
 
