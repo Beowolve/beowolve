@@ -13,7 +13,7 @@ Even after more than two decades in the industry, I’ve never lost my passion f
 * Developer tools
 
 ### What drives me
-I’m passionate about building highly interactive, visually rich software systems. Whether it's a complex desktop framework or a pixel-perfect web tool, I thrive on seeing ideas come to life. A big part of my creative outlet in recent years has been CSSBattle, which inspired many of the web tools you see below.
+I’m passionate about building highly interactive, visually rich software systems. Whether it's a complex desktop framework or a pixel-perfect web tool, I thrive on seeing ideas come to life. A big part of my creative outlet in recent years has been [CSSBattle](https://cssbattle.dev/), which inspired many of the web tools you see below.
 
 ### When I’m not coding
 I’m a family man and dog owner based in Austria. When the screen is off, you’ll likely find me:
