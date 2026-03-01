@@ -2,25 +2,33 @@
 
 I am a professional software engineer with over 25 years of experience. Even after more than two decades in the industry, I’ve never lost my passion for coding. In fact, with the rise of AI tools, I’m enjoying development more than ever—finding new ways to build faster and reach the "flow state" more efficiently.
 
+*I build frameworks, tools, and systems that other developers build on.*
+
+### Specializing in:
+* Desktop frameworks
+* UI architecture
+* Performance-focused systems
+* Developer tools
+
 ### What drives me
-I love creating visual solutions. Whether it's a complex desktop framework or a pixel-perfect web tool, I thrive on seeing ideas come to life. A big part of my creative outlet in recent years has been CSSBattle, which inspired many of the web tools you see below.
+I’m passionate about building highly interactive, visual software systems. Whether it's a complex desktop framework or a pixel-perfect web tool, I thrive on seeing ideas come to life. A big part of my creative outlet in recent years has been CSSBattle, which inspired many of the web tools you see below.
 
 ### When I’m not coding
 I’m a family man and dog owner based in Austria. When the screen is off, you’ll likely find me:
 
 * 🛴 EUC Trekking: Cruising on my Electric Unicycle (KS S16 Pro) during the summer months.
 * ♟️ Strategic Thinking: Playing chess (mostly for the challenge, not the rating!) or enjoying a round of poker with friends.
-* 🏗️ Gaming: Losing myself in deep, complex systems like Factorio, Space Engineers, or Civilization.
+* 🏗️ Systems Thinking: Enjoying complex simulation and strategy games like Factorio, Space Engineers, or Civilization.
 
-### 🔭 Current Projekt
+### 🔭 Current Project
 * [SnapFX](https://github.com/Beowolve/SnapFX) - **Modern Docking Framework for JavaFX**  
   Modular • Lightweight • IDE-style docking • Maven Central release in progress
 
 ### 🌐 Websites
+* [cssutils.com](https://cssutils.com) - A curated collection of web tools, specialized for CSSBattle.
 * [sevenauthors.art](https://sevenauthors.art) - An experimental platform publishing AI-generated storytelling.
 * [stilzone.at](https://stilzone.at) - Corporate website for my wife's business.
 * [stahl-linz.at](https://stahl-linz.at) - Official webpage of a local soccer club.
-* [cssutils.com](https://cssutils.com) - A curated collection of web tools, specialized for CSSBattle.
 
 ### ⚡ Web Tools
 * [CSS Battle Previewer 2.0](https://tc70f3.csb.app/) - A forked and enhanced tool for crafting Unicode-based CSSBattle solutions.
@@ -29,7 +37,11 @@ I’m a family man and dog owner based in Austria. When the screen is off, you�
 * [Unit Golf](https://u9kels.csb.app/) - An optimizer for finding the shortest CSS unit equivalents to minimize code size.
 
 ### 📫 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/eDCk5HQKWn) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2543799) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/BeoOnTwitch) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Beowolve) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beowolve@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eDCk5HQKWn)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2543799)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/BeoOnTwitch)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Beowolve)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beowolve@gmail.com) 
 
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
