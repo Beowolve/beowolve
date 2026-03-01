@@ -13,7 +13,8 @@ I’m a family man and dog owner based in Austria. When the screen is off, you�
 * 🏗️ Gaming: Losing myself in deep, complex systems like Factorio, Space Engineers, or Civilization.
 
 ### 🔭 Current Projekt
-* **SnapFX** - JavaFX Docking Framework - Private development; slated for public release once it meets my quality standards.
+* [SnapFX](https://github.com/Beowolve/SnapFX) - **Modern Docking Framework for JavaFX**  
+  Modular • Lightweight • IDE-style docking • Maven Central release in progress
 
 ### 🌐 Websites
 * [sevenauthors.art](https://sevenauthors.art) - An experimental platform publishing AI-generated storytelling.
