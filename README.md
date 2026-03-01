@@ -1,6 +1,8 @@
 ## Hi, I'm Andreas 👋
 
-I am a professional software engineer with over 25 years of experience. Even after more than two decades in the industry, I’ve never lost my passion for coding. In fact, with the rise of AI tools, I’m enjoying development more than ever—finding new ways to build faster and reach the "flow state" more efficiently.
+I am a professional software engineer with over 25 years of experience.
+
+Even after more than two decades in the industry, I’ve never lost my passion for coding. In fact, with the rise of AI tools, I’m enjoying development more than ever—finding new ways to build faster and reach the "flow state" more efficiently.
 
 *I build frameworks, tools, and systems that other developers build on.*
 
@@ -11,7 +13,7 @@ I am a professional software engineer with over 25 years of experience. Even aft
 * Developer tools
 
 ### What drives me
-I’m passionate about building highly interactive, visual software systems. Whether it's a complex desktop framework or a pixel-perfect web tool, I thrive on seeing ideas come to life. A big part of my creative outlet in recent years has been CSSBattle, which inspired many of the web tools you see below.
+I’m passionate about building highly interactive, visually rich software systems. Whether it's a complex desktop framework or a pixel-perfect web tool, I thrive on seeing ideas come to life. A big part of my creative outlet in recent years has been CSSBattle, which inspired many of the web tools you see below.
 
 ### When I’m not coding
 I’m a family man and dog owner based in Austria. When the screen is off, you’ll likely find me:
@@ -22,8 +24,8 @@ I’m a family man and dog owner based in Austria. When the screen is off, you�
 
 ### 🔭 Current Project
 * [SnapFX](https://github.com/Beowolve/SnapFX) - **Modern Docking Framework for JavaFX**  
-  Modular • Lightweight • IDE-style docking • Maven Central release in progress
-
+  Modular • Lightweight • IDE-style docking • Preparing for Maven Central release
+  
 ### 🌐 Websites
 * [cssutils.com](https://cssutils.com) - A curated collection of web tools, specialized for CSSBattle.
 * [sevenauthors.art](https://sevenauthors.art) - An experimental platform publishing AI-generated storytelling.
@@ -45,14 +47,13 @@ I’m a family man and dog owner based in Austria. When the screen is off, you�
 
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
