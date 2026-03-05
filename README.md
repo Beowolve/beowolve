@@ -36,7 +36,7 @@ I’m a family man and dog owner based in Austria. When the screen is off, you�
 * [CSS Battle Previewer 2.0](https://tc70f3.csb.app/) - A forked and enhanced tool for crafting Unicode-based CSSBattle solutions.
 * [CSS Battle Targets Overview](https://5xw7rn.csb.app/) - A streamlined grid view of all CSSBattle targets for better accessibility.
 * [Color Mixer](https://cssutils.com/colormixer/) - A precision tool to convert solid `#RRGGBB` colors into equivalent `#RGBA` values.
-* [Unit Golf](https://u9kels.csb.app/) - An optimizer for finding the shortest CSS unit equivalents to minimize code size.
+* [Unit Golf](https://cssutils.com/unit-golf/) - An optimizer for finding the shortest CSS unit equivalents to minimize code size.
 
 ### 📫 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eDCk5HQKWn)
