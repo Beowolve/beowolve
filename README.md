@@ -33,7 +33,7 @@ I’m a family man and dog owner based in Austria. When the screen is off, you�
 * [stahl-linz.at](https://stahl-linz.at) - Official webpage of a local soccer club.
 
 ### ⚡ Web Tools
-* [CSS Battle Previewer 2.0](https://tc70f3.csb.app/) - A forked and enhanced tool for crafting Unicode-based CSSBattle solutions.
+* [CSS Battle Previewer 3.0](https://cssutils.com/cssbattle-previewer/) - A forked and enhanced tool for crafting Unicode-based CSSBattle solutions.
 * [CSS Battle Targets Overview](https://cssutils.com/cssbattle-targets/) - A streamlined grid view of all CSSBattle targets for better accessibility.
 * [Color Mixer](https://cssutils.com/colormixer/) - A precision tool to convert solid `#RRGGBB` colors into equivalent `#RGBA` values.
 * [Unit Golf](https://cssutils.com/unit-golf/) - An optimizer for finding the shortest CSS unit equivalents to minimize code size.
