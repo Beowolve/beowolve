@@ -34,13 +34,13 @@ I’m a family man and dog owner based in Austria. When the screen is off, you�
 * [sevenauthors.art](https://sevenauthors.art) - An experimental platform publishing AI-generated storytelling.
 * [stilzone.at](https://stilzone.at) - Corporate website for my wife's business.
 * [stahl-linz.at](https://stahl-linz.at) - Official webpage of a local soccer club.
+* [CSS Battle Targets Overview](https://cssutils.com/cssbattle-targets/) - A streamlined grid view of all CSSBattle targets for better accessibility.
+* [CSS Battle Statistics](https://cssutils.com/cssbattle-statistics/) - A dashboard with daily target statistics.
 
 ### ⚡ Web Tools
 * [CSS Battle Previewer v3](https://cssutils.com/cssbattle-previewer/) - A forked and enhanced tool for crafting Unicode-based CSSBattle solutions.
-* [CSS Battle Targets Overview](https://cssutils.com/cssbattle-targets/) - A streamlined grid view of all CSSBattle targets for better accessibility.
 * [Color Mixer](https://cssutils.com/colormixer/) - A precision tool to convert solid `#RRGGBB` colors into equivalent `#RGBA` values.
 * [Unit Golf](https://cssutils.com/unit-golf/) - An optimizer for finding the shortest CSS unit equivalents to minimize code size.
-* [CSS Battle Statistics](https://cssutils.com/cssbattle-statistics/) - A website, that shows a dashboard with daily target statistics
 
 ### 📫 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eDCk5HQKWn)
