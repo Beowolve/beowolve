@@ -25,7 +25,10 @@ I’m a family man and dog owner based in Austria. When the screen is off, you�
 ### 🔭 Current Project
 * [SnapFX](https://github.com/Beowolve/SnapFX) - **Modern Docking Framework for JavaFX**  
   Modular • Lightweight • IDE-style docking • Preparing for Maven Central release
-  
+
+### ⚙️ Libraries
+* [qservice](https://github.com/Beowolve/qservice) - Qt6.8+ compatible library for creating services/deamons on win/unix/mac.
+
 ### 🌐 Websites
 * [cssutils.com](https://cssutils.com) - A curated collection of web tools, specialized for CSSBattle.
 * [sevenauthors.art](https://sevenauthors.art) - An experimental platform publishing AI-generated storytelling.
@@ -37,6 +40,7 @@ I’m a family man and dog owner based in Austria. When the screen is off, you�
 * [CSS Battle Targets Overview](https://cssutils.com/cssbattle-targets/) - A streamlined grid view of all CSSBattle targets for better accessibility.
 * [Color Mixer](https://cssutils.com/colormixer/) - A precision tool to convert solid `#RRGGBB` colors into equivalent `#RGBA` values.
 * [Unit Golf](https://cssutils.com/unit-golf/) - An optimizer for finding the shortest CSS unit equivalents to minimize code size.
+* [CSS Battle Statistics](https://cssutils.com/cssbattle-statistics/) - A website, that shows a dashboard with daily target statistics
 
 ### 📫 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eDCk5HQKWn)
