@@ -26,8 +26,9 @@ I’m a family man and dog owner based in Austria. When the screen is off, you�
 * [SnapFX](https://github.com/Beowolve/SnapFX) - **Modern Docking Framework for JavaFX**  
   Modular • Lightweight • IDE-style docking • Preparing for Maven Central release
 
-### ⚙️ Libraries
+### ⚙️ Libraries / Tools
 * [qservice](https://github.com/Beowolve/qservice) - Qt6.8+ compatible library for creating services/deamons on win/unix/mac.
+* [ImageTagService](https://github.com/Beowolve/ImageTagService) - Local image tagging service powered by RAM — HTTP API + CLI, fully offline, easy to integrate.
 
 ### 🌐 Websites
 * [cssutils.com](https://cssutils.com) - A curated collection of web tools, specialized for CSSBattle.
